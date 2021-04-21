@@ -21,3 +21,5 @@ NN：FNNの予測学習やRNNを色々と試しました。
 ・RNN.py：リカレントで８の字
 ・RNN_closed.py：クローズドも追加
 ・RNN_time_constant.py：時定数も入れて
+
+NN_PythonClass: fnnとrnnをpythonのクラスを使って書き直しました。
